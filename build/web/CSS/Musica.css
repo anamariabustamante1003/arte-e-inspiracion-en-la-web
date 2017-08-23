@@ -1,0 +1,192 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body
+{
+	font-family:arial;
+	background: -webkit-radial-gradient(#FFFFFF, #BBBABA);
+    background: -moz-radial-gradient(#FFFFFF, #C5C7D0);
+    background: -o-radial-gradient(#FFFFFF, #C5C7D0);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#contenido3
+{
+	padding-top:200px;
+	padding:240px;
+}
+
+#syt
+{
+	display:inline-block;
+	margin:20px 80px 0px;
+	font-size:40px;
+	color:#0B9BB8;
+}
+
+#slogan
+{
+	font-size:22px;
+	color:#fff;
+	margin:10px 20px;	
+}
+
+ header{
+	   width:100%;
+	   position:fixed;
+	   z-index: 100;
+	   font-family:Arial;
+	   background-image:url(../imagenes/fondo%202.png);
+	   -webkit-background-size: cover;
+	   -moz-background-size: cover;
+	   -o-background-size: cover;
+	   background-size: cover;
+   }
+   
+   ul{
+	   list-style:none;
+   }
+   
+   #menu{
+	   margin-top:20px;
+	   margin-left:330px;
+   }
+   
+   .nav li a{
+	   color:#DDC7C7;
+	   text-decoration:none;
+	   padding:10px 20px;
+	   display:block;
+	   background: #0B2161;
+   }
+   
+   .nav li a:hover{
+	   background:#090C7B;
+   }
+   
+   .nav > li{
+	   float:left;
+   }
+   
+   .nav li ul{
+	   display:none;
+	   position:absolute;
+	   min-width:140px;
+   }
+   
+   .nav li:hover > ul{
+	   display:block;
+   }
+   
+  #logo{
+      display:inline-block;
+      float:left;
+      margin-left:40px;    
+   }	
+
+#mus
+{
+	font-family:Arial;
+	font-size:24px;
+}
+
+#contenido3
+{
+	margin-bottom:0px;
+	padding-top:300px;
+	color:#0B2161;
+	margin-left:4%;
+}
+
+#musica1
+{
+	font-family:Arial;
+	font-size:36px;
+	color:#0B2161;
+}
+
+#musi div
+{
+	display:inline-block;
+	margin-left:40px;
+	Font-family: Arial;
+	margin-bottom:20px; 
+}
+
+input:hover
+{
+	background:#ECECEC;
+}
+
+input
+{
+	border-radius:.5em;
+	padding:.25em;
+	border:thin solid #0B2161;
+	cursor:pointer;
+	background:#D3C6C6;
+}
+
+.cambio
+{
+	-ms-transition:all .3s ease-in-out;
+	-o-transition:all .3s ease-in-out;
+	-moz-transition:all .3s ease-in-out;
+	-webkit-transition:all .3s ease-in-out;
+	transition:all .3s ease-in-out;
+}
+
+
+footer
+{	
+	   
+	   background: #0B2161; 	
+   	   background: -moz-linear-gradient(top, #0B2161, #3A01DF);
+   	   background: -o-linear-gradient(top, #0B2161, #3A01DF);
+
+}
+
+#navfooter
+{
+	display:inline-block;
+	margin:10px 640px 0px;
+	
+}
+
+#navfooter ul li a
+{
+	text-decoration:none;
+	color:#DDC7C7;
+}
+
+
+#copyright
+{
+    display:block;
+    width:40%;
+    padding-top:10px;
+    margin-left:550px;	
+	color:#DDC7C7;
+}
+
+#rs
+{
+    margin-left:604px;
+    display:inline-block;
+	margin-top:10px;
+}
+
+#rs img
+{
+	float:left;
+}
+
+
+
+
